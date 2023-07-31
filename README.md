@@ -1,6 +1,7 @@
 # chat_GPT_android
 
-https://github.com/xNaxelx/chat_GPT_android/assets/46362288/db0d32ff-4088-4b9d-b935-ee81bc61da71
+
+https://github.com/xNaxelx/chat_GPT_android/assets/46362288/cef6a6d9-94f1-4287-b7e6-376d76fdb713
 
 
 ##Instruction
